@@ -2,7 +2,7 @@ suzu@187s.com
 suzu12
 
 
-#D64550
+
 
 
 profit margin % = [Total profit] / sum(Orders[Revenue])
@@ -11,7 +11,7 @@ Revenue minus Cost = SUM('Orders'[Revenue]) - SUM('Orders'[Cost])
 
 Total no.of cookies sold = SUM(Orders[Units Sold])
 
-digital analysis
+digital analysis measures it will loaded
 
 DAX Measures - A measure is a calculation that's going to run across our data model.
 
