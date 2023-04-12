@@ -1,0 +1,33 @@
+suzu@187s.com
+suzu12
+
+
+#D64550
+
+
+profit margin % = [Total profit] / sum(Orders[Revenue])
+
+Revenue minus Cost = SUM('Orders'[Revenue]) - SUM('Orders'[Cost])
+
+Total no.of cookies sold = SUM(Orders[Units Sold])
+
+digital analysis
+
+DAX Measures - A measure is a calculation that's going to run across our data model.
+
+we can calculate how many cookies total cookies sold 
+and how many total units 
+
+
+1. total no. of cookies sold for this we are using sum function.
+units sold from the orders table 
+
+2. count of orders is calculate count rows in orders
+
+3. we can calculate total profit 
+
+here iam adding new column for profit its calculated revenue - cost in orders table
+
+
+we can create a new column is day of week it created in orders table
+
